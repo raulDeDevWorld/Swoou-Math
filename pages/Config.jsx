@@ -74,7 +74,6 @@ function Config () {
       return
 
     } 
-    console.log(userDB)
     return (
         <>
     <PageLayout>
