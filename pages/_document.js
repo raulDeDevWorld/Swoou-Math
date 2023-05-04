@@ -23,7 +23,7 @@ export default class MyDocument extends Document {
                                       plataformas para la enseñanza de Matemáticas a primaria,
                                       cursos particulares de Matemáticas para primaria," />
         <meta name="author" content="Raul Choque Romero, web and app developer, fundador de swoou.com" />
-    
+        <meta name="google-site-verification" content="K_yVKmtfQpT9lX6xKf-qIz0LoyKwcYOEHeOTxi_ksXA" />
 </Head>
 <body>
                     <Main />
